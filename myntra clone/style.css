@@ -1,0 +1,45 @@
+h1{
+    font-size: 70px;
+    color: rgb(232, 13, 244);
+    text-align:center;
+    background-color: rgb(244, 209, 234);
+
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(20, 156, 235);
+}
+div{
+    background-color:rgb(244, 209, 234) ;
+}
+div{
+    text-align: center;
+    border: 50px solid rgb(251, 1, 209);
+    
+}
+button{
+    padding: 15px 20px;
+    font-size: 15px;
+    color: aliceblue;
+    background-color: black;
+    border-radius: 50px;
+}
+button:hover {
+    background-color: rgb(236, 7, 225);
+}
+span{
+    color: rgb(251, 5, 255);
+    font-size:200px;
+}
+hr{
+    height: 3px; background-color: rgb(218, 8, 233); border: none
+    
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+    font-weight: bolder;
+}
